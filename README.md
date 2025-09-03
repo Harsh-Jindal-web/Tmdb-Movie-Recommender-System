@@ -104,25 +104,6 @@ TMDB_API_KEY = "your_tmdb_api_key"
 
 ---
 
-## 📂 Project Structure
-
-```bash
-├── app/
-│   ├── main.py              # FastAPI entry point
-│   ├── recommender.py       # Recommendation engine logic
-│   ├── user.py              # User history and feedback handling
-│   ├── tmdb.py              # TMDb integration
-│   └── config.py            # API keys and configurations
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── ...
-├── requirements.txt
-├── README.md
-```
-
----
-
 ## 📈 Future Improvements
 
 - Add collaborative filtering  
